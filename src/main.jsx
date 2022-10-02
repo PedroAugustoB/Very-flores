@@ -18,7 +18,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Routes>
       <Route path="/" exact element={<Home />}></Route>
       <Route path="/Sobre" element={<Sobre />}></Route>
-      <Route path="/Login" element={<Login />}></Route>
+      <Route path="/Login/:id" element={<Login />}></Route>
       <Route path="/Cadastro" element={<Cadastro />}></Route>
     </Routes>
     <GlobalStyle />

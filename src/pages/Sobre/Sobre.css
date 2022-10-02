@@ -1,0 +1,17 @@
+.card {
+    background-color: #56CBF9;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-update{
+    background-color: rgb(5, 78, 197);
+}
+
+.btn-delete {
+    background-color: red;
+}

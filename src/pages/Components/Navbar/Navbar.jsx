@@ -19,13 +19,10 @@ export function App() {
                         <a href='/' className='link'>HOME</a>
                     </Link>
                     <Link>
-                        <a href='/Sobre' className='link'>SOBRE</a>
+                        <a href='/Sobre' className='link'>CADASTROS</a>
                     </Link>
                     <Link>
-                        <a href='/Login' className='link'>LOGIN</a>
-                    </Link>
-                    <Link>
-                        <a href='/Cadastro' className='link'>CADASTRO</a>
+                        <a href='/Cadastro' className='link'>CADASTRAR-SE</a>
                     </Link>
                 </Links>
             </Navbar>

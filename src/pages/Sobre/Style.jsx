@@ -41,3 +41,4 @@ export const Principal = styled.div`
     
 
 `;
+
